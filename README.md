@@ -1,7 +1,7 @@
 # FluentEmojiAPI Test (Inline SVG Emojis)
 
-Testing emojis directly from [FluentEmojiAPI](https://fluentemojiapi-production.up.railway.app/).  
-All emojis below use **SVG files from the API**, no Unicode emojis included.
+Testing emojis directly from [FluentEmojiAPI](https://github.com/rianmubarok/fluentemojiapi) Project.  
+All emojis below use **SVG files from the API** [Link Api FluentEmoji](https://fluentemojiapi-production.up.railway.app/), no Unicode emojis included.
 
 ---
 
