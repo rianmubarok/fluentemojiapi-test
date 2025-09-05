@@ -1,50 +1,35 @@
-# 🎉 FluentEmojiAPI Test
+# FluentEmojiAPI Test (Inline SVG Emojis)
 
-Testing emojis from [FluentEmojiAPI](https://fluentemojiapi-production.up.railway.app/) in markdown.  
-Just a fun playground to see how emojis look and behave!  
-
----
-
-## 🏆 Medals & Achievements
-
-🥇 **1st Place Medal**  
-![1st Place Medal](https://fluentemojiapi-production.up.railway.app/svg/1st-place-medal-color.svg)
-
-🥈 **2nd Place Medal**  
-![2nd Place Medal](https://fluentemojiapi-production.up.railway.app/svg/2nd-place-medal-color.svg)
-
-🥉 **3rd Place Medal**  
-![3rd Place Medal](https://fluentemojiapi-production.up.railway.app/svg/3rd-place-medal-color.svg)
+Testing emojis directly from [FluentEmojiAPI](https://fluentemojiapi-production.up.railway.app/).  
+All emojis below use **SVG files from the API**, no Unicode emojis included.
 
 ---
 
-## ❤️ Smileys & Emotions
+## Medals & Achievements
 
-😀 **Grinning Face**  
-![Grinning Face](https://fluentemojiapi-production.up.railway.app/svg/grinning-face-color.svg)
-
-😂 **Face with Tears of Joy**  
-![Tears of Joy](https://fluentemojiapi-production.up.railway.app/svg/face-with-tears-of-joy-color.svg)
-
-😢 **Crying Face**  
-![Crying Face](https://fluentemojiapi-production.up.railway.app/svg/crying-face-color.svg)
+![1st Place Medal](https://fluentemojiapi-production.up.railway.app/svg/1st-place-medal-color.svg)  ![2nd Place Medal](https://fluentemojiapi-production.up.railway.app/svg/2nd-place-medal-color.svg)  ![3rd Place Medal](https://fluentemojiapi-production.up.railway.app/svg/3rd-place-medal-color.svg)  ![Trophy](https://fluentemojiapi-production.up.railway.app/svg/trophy-color.svg)  ![Sports Medal](https://fluentemojiapi-production.up.railway.app/svg/sports-medal-color.svg)  
 
 ---
 
-## ⚽ Sports & Activities
+## Sports & Activities
 
-🏀 **Basketball**  
-![Basketball](https://fluentemojiapi-production.up.railway.app/svg/basketball-color.svg)
-
-⚽ **Soccer Ball**  
-![Soccer](https://fluentemojiapi-production.up.railway.app/svg/soccer-ball-color.svg)
-
-🎸 **Guitar**  
-![Guitar](https://fluentemojiapi-production.up.railway.app/svg/guitar-color.svg)
+![Basketball](https://fluentemojiapi-production.up.railway.app/svg/basketball-color.svg)  ![Soccer Ball](https://fluentemojiapi-production.up.railway.app/svg/soccer-ball-color.svg)  ![Guitar](https://fluentemojiapi-production.up.railway.app/svg/guitar-color.svg)  ![Tennis](https://fluentemojiapi-production.up.railway.app/svg/tennis-color.svg)
 
 ---
 
-## 🔍 Quick API Tests
+## Smileys & Emotions
+
+![Grinning Face](https://fluentemojiapi-production.up.railway.app/svg/grinning-face-color.svg)  ![Face with Tears of Joy](https://fluentemojiapi-production.up.railway.app/svg/face-with-tears-of-joy-color.svg)  ![Crying Face](https://fluentemojiapi-production.up.railway.app/svg/crying-face-color.svg)  ![Smiling Face with Heart Eyes](https://fluentemojiapi-production.up.railway.app/svg/smiling-face-with-heart-eyes-color.svg)  ![Angry Face](https://fluentemojiapi-production.up.railway.app/svg/angry-face-color.svg)  ![Thinking Face](https://fluentemojiapi-production.up.railway.app/svg/thinking-face-color.svg)  
+
+---
+
+## Food & Drinks
+
+![Pizza](https://fluentemojiapi-production.up.railway.app/svg/pizza-color.svg)  ![Hamburger](https://fluentemojiapi-production.up.railway.app/svg/hamburger-color.svg)  ![Sushi](https://fluentemojiapi-production.up.railway.app/svg/sushi-color.svg)  ![Beer Mug](https://fluentemojiapi-production.up.railway.app/svg/beer-mug-color.svg)
+
+---
+
+## Quick API Tests
 
 - **List all emojis:** [All Emojis](https://fluentemojiapi-production.up.railway.app/emojis)  
 - **Search by keyword "medal":** [Search Medal](https://fluentemojiapi-production.up.railway.app/emojis/search?q=medal)  
@@ -52,7 +37,4 @@ Just a fun playground to see how emojis look and behave!
 
 ---
 
-💡 **Tip:** You can copy the SVG URLs directly into markdown images to test any emoji you want!  
-
----
-
+**Tip:** Copy any SVG URL directly into markdown `![Alt](URL)` to test any emoji from the API.
